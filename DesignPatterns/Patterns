@@ -1,0 +1,29 @@
+Creational:
+ - Abstract Factory.
+ - Builder.
+ - Factory Method.
+ - Prototype.
+ - Singleton.
+ 
+ 
+Structural:
+ - Adapter.
+ - Bridge.
+ - Composite.
+ - Decorator.
+ - Facade.
+ - FlyWeight.
+ - Proxy.
+ 
+ Behavioral:
+ - Chain for Responsibility.
+ - Command.
+ - Interpreter.
+ - Iterator.
+ - Madiator.
+ - Memento.
+ - Observer.
+ - State.
+ - Strategy.
+ - Template Method.
+ - Visitor. 
